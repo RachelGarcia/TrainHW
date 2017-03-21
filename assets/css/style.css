@@ -1,0 +1,19 @@
+
+.jumbotron {
+	text-align: center; 
+	background-color: purple;
+	color: white;
+	font-weight: 100px;
+}
+
+
+h4 {
+	color: white; 
+}
+
+table, th, td {
+   	border: 1px dotted grey;
+  	padding: 15px;
+	text-align: right;
+}
+
